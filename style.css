@@ -1,0 +1,24 @@
+footer{
+    background-color: rgb(10, 10, 10);
+    color: white;
+}
+.footer-links{
+    display: flex;
+    flex-wrap: row;
+    justify-content: space-between;
+}
+.footer-links ul{
+    list-style-type: none;
+}
+.footer-info{
+    display: ;
+}
+.list-title{
+    font-weight: bold;
+}
+.footer-links a{
+    color: rgb(200, 200, 200);
+}
+.contact-info{
+    text-align: right;
+}
